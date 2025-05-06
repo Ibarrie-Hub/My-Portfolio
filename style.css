@@ -12,6 +12,21 @@ header {
   padding: 20px;
 }
 
+p {
+  font-size: 18px;
+  color: #f5efef;
+  font-style: italic;
+  background-color: #121415;
+  padding: 15px;
+  border-left: 5px solid #ffffff;
+  border-radius: 6px;
+  max-width: 600px;
+  margin: 20px auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+
 nav ul {
   list-style: none;
   padding: 0;
